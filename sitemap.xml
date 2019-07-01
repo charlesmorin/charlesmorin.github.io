@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://charlesmorin.ca/categories/</loc>
+    <loc>https://charlesmorin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://charlesmorin.ca/tags/</loc>
+    <loc>https://charlesmorin.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://charlesmorin.ca/</loc>
+    <loc>https://charlesmorin.github.io/</loc>
     <priority>0</priority>
   </url>
   
